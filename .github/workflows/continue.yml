@@ -1,4 +1,4 @@
-name: Continue giWebsite Deployment
+name: Continue Website Deployment
 on:
   push:
     branches:
